@@ -1,12 +1,11 @@
-/**
-* adding comment so i do not get an error
-*/
-
 package com.leszko.calculator;
 
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
+/**
+* adding comment so i do not get an error
+*/
 @Service
 public class Calculator {
         final static int umlNUMBER1 = 3;
